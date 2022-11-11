@@ -1,0 +1,15 @@
+npm init -y 'SERVE PARA CRIAR O PROJETO NODE "BACKEND"'
+
+npm add express nodemon mysql cors 'serve para adicionar recursos no backend, alem de 
+fazer o app compilar sem precisar ficar resetando a pagina toda hora, serve tambem
+para ele entender que o mysql é o banco de dados e o cors serve para nao dar nenhum conflito'
+
+
+npm add styled-components axios react-icons react-toastify -- "serve para auxiliar na 
+estilização no react, o axios serve para consumirmos a API que fizemos no backend,
+o react icons para nos dar os icones dahora da lixeirinha e da edição, e o toastfy
+são aquelas mensagens pique pop-up de quando incluimos, excluimos ou editamos alguma coisa "
+
+
+
+npm install -g heroku -- serve para conseguir mandar o app para o heroku
